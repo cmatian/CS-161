@@ -1,2 +1,4 @@
 # CS-161
-CS 161 - Introduction to Computer Science I
+Oregon State University CS161 - Introduction to Computer Science I
+
+Final Grade: B+
